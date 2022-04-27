@@ -1,0 +1,6 @@
+{
+  "parent": "itme/generated",
+  "textures": {
+    "layer0": "tutorialmod:item/sarah_kindvall"
+  }
+}
