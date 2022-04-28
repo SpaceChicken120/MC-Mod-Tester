@@ -12,7 +12,7 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, PracticeMod.MOD_ID);
 
-    public static final RegistryObject<Item> SARAH = ITEMS.register("sarah_kindvall",
+    public static final RegistryObject<Item> SARAH = ITEMS.register("sarah",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
 

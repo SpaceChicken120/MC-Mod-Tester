@@ -1,3 +1,5 @@
 {
-  "item.practicemod.sarah_kindvall": "Sarah Kindvall"
+  "item.practicemod.sarah": "Sarah Kindvall",
+
+  "block.practicemod.sarah_ore" : "Sarah Ore"
 }
