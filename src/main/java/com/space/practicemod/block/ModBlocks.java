@@ -23,7 +23,7 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> SARAH_ORE = registerBlock("sarah_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_MISC);
+                    .strength(2f)), CreativeModeTab.TAB_MISC);
 
 
 
